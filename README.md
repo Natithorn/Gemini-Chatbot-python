@@ -33,7 +33,7 @@ GEMINI_API_KEY=YOUR_API_KEY
 
 ---
 
-## Run the Chatbot
+## 3. Run the Chatbot
 
 To start the chatbot, simply run the script:
 
